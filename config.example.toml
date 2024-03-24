@@ -1,0 +1,7 @@
+[hotkeys.google]
+hotkey = "<ctrl>+<cmd>+e"
+name = "google-work"
+
+[hotkeys.github]
+hotkey = "<ctrl>+<cmd>+r"
+name = "github-personal"

@@ -1,0 +1,8 @@
+# Python
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# Local config
+config.toml
